@@ -1,9 +1,9 @@
-
+import { Invoice } from "./Components/Invoice";
 
 const App = () => {
   return (
     <div className="">
-   <h1>hello</h1>
+    <Invoice />
     </div>
   );
 };
